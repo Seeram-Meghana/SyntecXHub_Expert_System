@@ -86,3 +86,4 @@ for fact in final_facts:
 
 if not found:
     print("Prediction: Unable to determine weather with given conditions.")
+    print("\n")
